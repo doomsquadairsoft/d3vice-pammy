@@ -1,8 +1,3 @@
-//   tts(cb);
-//   tts('hello world', cb);
-//   tts('hello world', 'Princess', cb)
-//   tts('hello world', 1, cb);
-//   tts('hello world', 'Pricess, 1, cb')
 
 
 var assert = require('chai').assert;

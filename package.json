@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "amqplib": "^0.4.2",
+    "async": "^2.0.0-rc.6",
     "play-sound": "^0.0.9",
     "say": "^0.9.0"
   },

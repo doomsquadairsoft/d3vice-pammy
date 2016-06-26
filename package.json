@@ -16,7 +16,9 @@
     "nedb": "^1.8.0",
     "play-sound": "^0.0.9",
     "promise": "^7.1.1",
-    "say": "^0.9.0"
+    "say": "^0.9.0",
+    "superagent": "^2.0.0",
+    "superagent-jsonapify": "^1.4.1"
   },
   "devDependencies": {},
   "scripts": {
